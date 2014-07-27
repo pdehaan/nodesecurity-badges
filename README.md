@@ -13,16 +13,14 @@ Add the following line to your GitHub repository's README file:
 
 If your repository is a registered npm module, use the following URL:
 
-```
-[nodesecurity-badge]: https://nodesecurity.io/badge/npm/{npm-module-name}.svg
-```
+    [nodesecurity-badge]: https://nodesecurity.io/badge/npm/{npm-module-name}.svg
+
 
 Otherwise, if it's just a repository on GitHub or BitBucket, use one of those:
 
-```
-[nodesecurity-badge]: https://nodesecurity.io/badge/github/{user}/{repo}.svg
-[nodesecurity-badge]: https://nodesecurity.io/badge/bitbucket/{user}/{repo}.svg
-```
+    [nodesecurity-badge]: https://nodesecurity.io/badge/github/{user}/{repo}.svg
+    [nodesecurity-badge]: https://nodesecurity.io/badge/bitbucket/{user}/{repo}.svg
+
 
 
 The API endpoints respond with one of the following states:
