@@ -1,0 +1,16 @@
+{
+  "globals": {
+    "describe"   : false,
+    "it"         : false,
+    "before"     : false,
+    "after"      : false,
+    "beforeEach" : false,
+    "afterEach"  : false
+  },
+  "expr"         : true,
+  "node"         : true,
+  "devel"        : true,
+  "globalstrict" : true,
+  "unused"       : true,
+  "undef"        : true
+}
