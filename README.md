@@ -7,9 +7,7 @@ nodesecurity.io Github badges
 
 Add the following line to your GitHub repository's README file:
 
-```
-![nodesecurity.io vulnerability check](nodesecurity-badge)
-```
+    ![nodesecurity.io vulnerability check](nodesecurity-badge)
 
 If your repository is a registered npm module, use the following URL:
 
