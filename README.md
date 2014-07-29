@@ -1,6 +1,11 @@
 # nodesecurity-badges
 
-nodesecurity.io Github badges
+nodesecurity.io GitHub badges
+
+
+### Development
+
+To run this project stand alone, use `node server.js` and replace one of the badge URLs below with your own hostname.
 
 
 ### Usage
@@ -32,7 +37,7 @@ The API endpoints respond with one of the following states:
 
 ### ToDos
 
-- Optimize caching settings for the route (currently set to 5 minutes)
+- Optimize caching settings for production
 - Suppress npmd-resolve console output
 
 
