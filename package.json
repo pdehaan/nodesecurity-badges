@@ -13,7 +13,7 @@
     "url": "git://github.com/fhemberger/nodesecurity-badges.git"
   },
   "scripts": {
-    "test": "mocha --reporter spec"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Frederic Hemberger (http://frederic-hemberger.de/)",
   "license": "MIT",
