@@ -18,9 +18,9 @@
   "author": "Frederic Hemberger (http://frederic-hemberger.de/)",
   "license": "MIT",
   "dependencies": {
-    "config": "^0.4.36",
-    "hapi": "^6.0.2",
-    "joi": "^4.6.1",
+    "config": "^0.4.37",
+    "hapi": "^6.4.0",
+    "joi": "^4.6.2",
     "npmd-cache": "^4.1.3",
     "npmd-config": "^1.2.0",
     "npmd-resolve": "^7.6.3",
