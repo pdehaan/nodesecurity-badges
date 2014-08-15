@@ -25,6 +25,6 @@
     "npmd-config": "^1.2.0",
     "npmd-resolve": "^7.6.3",
     "q": "^1.0.1",
-    "request": "^2.36.0"
+    "request": "^2.40.0"
   }
 }
